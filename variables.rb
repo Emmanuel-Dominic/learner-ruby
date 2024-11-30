@@ -26,3 +26,15 @@ puts occupation.index("E")
 puts occupation.index("ware")
 puts("I am " + name + " with " + experience.to_s + " years of experience and " + phrase)
 puts("I am #{name} with #{experience} years of experience and #{phrase}")
+
+puts 5 + 9 #addition
+puts -7.8 #negative
+puts 9 - 5 #subtraction
+puts 2^3 #xor
+puts 2**3 #exponential
+puts 10 % 3 #modulus
+puts experience.round()
+puts experience.ceil()
+puts experience.floor()
+puts Math.sqrt(36)
+puts Math.log(1)
